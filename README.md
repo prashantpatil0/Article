@@ -10,7 +10,7 @@ We're excited to launch the first stable version of **Article**, your new go-to 
 - 🔗 Easy sharing and external link support
 - 🔒 Respect for your privacy — no personal data collection
 
-- Download : 
+- Download : https://github.com/prashantpatil0/Article/releases/download/v1.0.0/Article.apk
 
 Thank you for joining us on this journey. Stay informed, stay entertained, and keep scrolling!
 
